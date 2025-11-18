@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/1Qp6gsn/developer-banner.png" alt="Banner" width="100%" style="border-radius: 8px;" />
+  <img src="[https://i.ibb.co/1Qp6gsn/developer-banner.png](https://i.ibb.co.com/XdxGQ17/Sujun-PRODHAN.png)" alt="Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- Name Typing Animation -->
