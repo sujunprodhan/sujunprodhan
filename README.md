@@ -69,6 +69,10 @@ I specialize in building **scalable, responsive, and user-friendly web applicati
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdriyazakondo&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=mdriyazakondo&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+</p>
 
 ## ⭐ Thank You
 Thank you for visiting my profile.  
