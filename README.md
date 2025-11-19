@@ -77,6 +77,11 @@ I specialize in building **scalable, responsive, and user-friendly web applicati
   <img src="https://streak-stats.demolab.com?user=mdriyazakondo&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
+
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 ## ⭐ Thank You
 Thank you for visiting my profile.  
 If you like my work, please consider giving ⭐ to my repositories!
