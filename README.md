@@ -17,7 +17,7 @@ I specialize in building **scalable, responsive, and user-friendly web applicati
 - 🌱 Currently improving my skills in **Next.js, TypeScript, and advanced React patterns**  
 - 💼 Offering professional **Web Design & Development services**  
 - 🎯 Passionate about **clean code, UX design, and modern web technologies**  
-https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U
+<img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" width="220px"/>
 ---
 
 ## 📫 Contact Me
