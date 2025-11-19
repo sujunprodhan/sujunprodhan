@@ -5,7 +5,7 @@
 
 <!-- Name Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sujun+Prodhan;Frontend+Developer;MERN+Stack+Developer" alt="Typing Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=C7F464&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sujun+Prodhan;Frontend+Developer;MERN+Stack+Developer" alt="Typing Name" />
 </h1>
 
 ---
