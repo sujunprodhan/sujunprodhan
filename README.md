@@ -69,12 +69,12 @@ I specialize in building **scalable, responsive, and user-friendly web applicati
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdriyazakondo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdriyazakondo&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujunprodhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdriyazakondo&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=mdriyazakondo&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujunprodhan&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=sujunprodhan&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
 
